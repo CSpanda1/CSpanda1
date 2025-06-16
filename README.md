@@ -13,6 +13,8 @@ I'm Ahmed Sherwani - Computer Science student at UT Dallas and former software e
 -	Custom Software
 -	AI and Computer Vision 
 -	Computer Hardware
+-	Sales Force
+-	Kubernetes
 
 
 
