@@ -10,6 +10,8 @@ I'm Ahmed Sherwani - Computer Science student at UT Dallas and former software e
 
 -	Cloud Computing 
 -	Web Development
+-	Automation
+-	Mobile App Development
 -	Custom Software
 -	AI and Computer Vision 
 -	Computer Hardware
