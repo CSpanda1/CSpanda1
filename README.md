@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+I'm Ahmed Sherwani - Computer Science student at UT Dallas and former software engineer at HCSC, T-Mobile, and HCL Tech
+
+🌟 Recent Projects
+
+- Nom Nom Bites -  A recipe maker, recipe generator, and gorcery store website. Software Engineering project for Professor Srimathi Srinivasan
+
+🚀 Interests:
+
+-	Cloud Computing 
+-	Web Development
+-	Custom Software
+-	AI and Computer Vision 
+-	Computer Hardware
+
+
+
 <!--
 **CSpanda1/CSpanda1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
