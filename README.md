@@ -4,7 +4,7 @@ I'm Ahmed Sherwani - Computer Science student at UT Dallas and former software e
 
 🌟 Recent Projects
 
-- Nom Nom Bites -  A recipe maker, recipe generator, and gorcery store website. Software Engineering project for Professor Srimathi Srinivasan
+- Nom Nom Bites -  A recipe maker, recipe generator, and grocery store website. Software Engineering project for Professor Srimathi Srinivasan
 
 🚀 Interests:
 
